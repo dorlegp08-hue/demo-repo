@@ -1,3 +1,3 @@
-# Main headet
+# Main header
 
 some plain text
